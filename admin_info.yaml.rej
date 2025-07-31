@@ -1,0 +1,5 @@
+diff a/admin_info.yaml b/admin_info.yaml	(rejected hunks)
+@@ -0,0 +1,2 @@
++id: oz
++password: 1234
+\ No newline at end of file
