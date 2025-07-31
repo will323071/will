@@ -1,0 +1,11 @@
+diff a/oz_fullstack.yaml b/oz_fullstack.yaml	(rejected hunks)
+@@ -0,0 +1,8 @@
++team: oz_fullstack
++
++leader: 찬양
++
++member:
++- 남욱
++- 다경
++- 정훈
+\ No newline at end of file
