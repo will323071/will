@@ -1,0 +1,11 @@
+diff a/git- Repository to push/oz_cs.yaml b/git- Repository to push/oz_cs.yaml	(rejected hunks)
+@@ -0,0 +1,8 @@
++team: oz_cs
++
++leader: 세형
++
++member:
++- 진철
++- 가람
++- 희준 
+\ No newline at end of file
